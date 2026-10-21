@@ -183,7 +183,7 @@
   <!-- Right side badge -->
   <g class="badge glow-pulse" filter="url(#glow)">
     <rect x="710" y="85" width="148" height="50" rx="4" fill="#0a1628" stroke="#7C3AED" stroke-width="1"/>
-    <text font-family="'JetBrains Mono', monospace" font-size="9px" fill="#94A3B8" x="724" y="117">Uras AKAS | urasakas.com tarafından yapılmıştır</text>
+    <text font-family="'JetBrains Mono', monospace" font-size="9px" fill="#94A3B8" x="724" y="117">Uras AKAS | urasakas.com </text>
   </g>
 
   <!-- Bottom right: tool count indicator -->
